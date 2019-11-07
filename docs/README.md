@@ -24,10 +24,6 @@
 
   - **Meet people** from other co-ops we wouldn't be able to meet in person if it wasn't during the event.
 
----
-
-# What did we go looking for?
-
   - **To spread the word**: To communicate the message that **we work in collaboration** to achieve our goals.
 
   - **To generate links** with other co-ops that are open to the idea of working together.
@@ -41,10 +37,6 @@
   - **All co-ops** in FACTTIC **contributed extra money** to the monthly fee to finance the trip.
 
   - More than **15 co-operators from 10 different co-operatives** also contributed **work** to produce: brochures, business cards and the **[FIT Landing Page](https://facttic.org.ar/fit/en)**.
-
----
-
-# How did we collaborate to participate?
 
   - We set up an articulated **communication strategy** between co-operatives, FACTTIC and the person in charge of communication at the ICA **to replicate the messages** reporting the event.
 
@@ -62,10 +54,6 @@
 
   - **Interest** in **collaborative** experiences between co-ops, in which many of us work as one to achieve a common goal.
 
----
-
-# What did we find there?
-
   - **Interest** in the **tech co-ops network**: It positions us as a stronger actor with whom they can interact.
 
   - **The need to show** more of our **daily work**: Today there is not a **tech co-op actor** that **represents our sector** at an **international level**, so nobody heard of us.
@@ -81,10 +69,6 @@
   - We managed to **build** one more **case of success** through **intercooperation**: All the content we decided to produce in order to participate was completed in time through **collaborative work**.
 
   - A lot of **enthusiasm!** When we saw **the willingness and surprise** of **other co-ops** to learn about the tech co-op sector.
-
----
-
-# What results did we get?
 
   - More **knowledge**: We brought **information** about other interesting **co-operative processes** in other parts of the world.
 
