@@ -8,9 +8,7 @@
 
 # Some Context
 
-  - **For about a year now**, some co-ops in the federation have been working on a **strategy** that consists of **working "WITH" co-operatives**.
-
-!comment Building relationships based on trust to collaborate on technological projects. 
+  - **For about a year now**, some co-ops in the federation have been working on a **strategy** that consists of **working "WITH" co-operatives**, building relationships based on trust to collaborate on technological projects. 
 
   - **Shortly after** considering this strategy, we began to think about **complementing it with another** that focuses more on who we work for. So we wanted to do more concrete actions in order **to work "FOR"** co-ops.
 
@@ -180,8 +178,6 @@
   - We can continue **creating** our **own spaces** by **learning** from these kinds of experiences: What we **want to replicate** and what we **don't want to replicate**.
 
 ---
-
-!slide_classes last-slide
 
 # Questions? Thank you!
 
