@@ -1,9 +1,3 @@
-!header FACTTIC in Kigali 2019
-!footer Made with Prexent
-
-!slide_classes slide-0
-
-!custom_css /css/custom.css
 
 ![Kigali](/img/kigali.jpeg#logo-kigali)
 
@@ -100,13 +94,9 @@
 
 ---
 
-!slide_classes photo-title-slide
-
 # Some photos!
 
 ---
-
-!slide_classes photo-content-slide
 
 ### Kigali Convention Center: Where all the talks were held.
 
@@ -114,15 +104,11 @@
 
 ---
 
-!slide_classes photo-content-slide
-
 ### First talk: ICA youth meeting.
 
 ![FACTTIC](/img/photos/4.jpg#photo)
 
 ---
-
-!slide_classes photo-content-slide
 
 ### Woodworking Cooperative visit.
 
@@ -130,15 +116,11 @@
 
 ---
 
-!slide_classes photo-content-slide
-
 ### Woodworking Cooperative visit.
 
 ![FACTTIC](/img/photos/7.jpg#photo)
 
 ---
-
-!slide_classes photo-content-slide
 
 ### Hounsing cooperative visit.
 
@@ -146,15 +128,11 @@
 
 ---
 
-!slide_classes photo-content-slide
-
 ### Main Salon: Where the most important talks took place.
 
 ![FACTTIC](/img/photos/12.jpg#photo)
 
 ---
-
-!slide_classes photo-content-slide
 
 ### Argentine Delegation!
 
@@ -162,15 +140,11 @@
 
 ---
 
-!slide_classes photo-content-slide
-
 ### Vandana Shiva, Indian philosopher and writer.
 
 ![FACTTIC](/img/photos/14.jpg#photo)
 
 ---
-
-!slide_classes photo-content-slide
 
 ### Last Day Dinner: One more meeting place to continue making connections.
 
@@ -179,23 +153,17 @@
 
 ---
 
-!slide_classes photo-content-slide
-
 ### Day off: We went for a ride with the Argentine delegation.
 
 ![FACTTIC](/img/photos/18.jpg#photo)
 
 ---
 
-!slide_classes photo-content-slide
-
 ### Day off: We visited a local non-tourist market to learn more about their culture.
 
 ![FACTTIC](/img/photos/20.jpg#photo)
 
 ---
-
-!slide_classes photo-content-slide
 
 ### Day off: We visited a local non-tourist market to learn more about their culture.
 
