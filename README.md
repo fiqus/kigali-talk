@@ -13,6 +13,11 @@ In the talk you will find the following information:
 The talk was prepared using [prexent](https://github.com/fiqus/prexent), a tool developed by [Fiqus](https://fiqus.coop/en/) to build presentations based on a MarkDown file format. 
 
 
+## To watch the content of the presentation:
+
+https://fiqus.github.io/kigali-talk/
+
+
 ## To run the presentation locally:
 
 ### Pre-requisites
