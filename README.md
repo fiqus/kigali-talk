@@ -1,4 +1,4 @@
-# Kigali Talk (en)
+# Kigali Talk
 
 This repository contains a talk prepared to share the trip organised by [FACTTIC](https://facttic.org.ar/) to participate in the [Global Conference 'Cooperatives for development'](http://www.kigali2019.coop/), organised by the [ICA](https://www.ica.coop/en) in 2019 in Kigali, Ruanda.
 
@@ -15,7 +15,8 @@ The talk was prepared using [prexent](https://github.com/fiqus/prexent), a tool 
 
 ## To watch the content of the presentation:
 
-https://fiqus.github.io/kigali-talk/
+  - EN: https://fiqus.github.io/kigali-talk/
+  - ES: https://fiqus.github.io/kigali-talk/es/
 
 
 ## To run the presentation locally:
