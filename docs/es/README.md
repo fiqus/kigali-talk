@@ -128,7 +128,7 @@
 
 # Qué resultados obtuvimos?
 
-  - La participación en este evento fue **útil** para **crear** la **[página de destino de la FIT](https://facttic.org.ar/fit/)**.
+  - La participación en este evento fue **útil** para **crear** la **[Landing Page del FIT](https://facttic.org.ar/fit/)**.
 
   - Conseguimos **construir** otro **caso de éxito** a través de la **intercooperación**: Todo el contenido que decidimos producir para participar se completó a tiempo a través de **trabajo colaborativo**.
 
@@ -186,7 +186,7 @@
 
 ---
 
-### Vandana Shiva, Filósofa y escritoa india.
+### Vandana Shiva, Filósofa y escritora india.
 
 ![FACTTIC](/img/photos/14.jpg#photo)
 
