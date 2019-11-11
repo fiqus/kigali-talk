@@ -144,15 +144,11 @@
 
 ---
 
-!slide_classes photo-content-slide
-
 ### Kigali Convention Center: Donde transcurrían todas las charlas.
 
 ![FACTTIC](/img/photos/3.jpg#photo)
 
 ---
-
-!slide_classes photo-content-slide
 
 ### Primera charla: Reunión de la juventud de la ACI.
 
@@ -160,15 +156,11 @@
 
 ---
 
-!slide_classes photo-content-slide
-
 ### Visita a la cooperativa de carpintería.
 
 ![FACTTIC](/img/photos/6.jpg#photo)
 
 ---
-
-!slide_classes photo-content-slide
 
 ### Visita a la cooperativa de carpintería.
 
@@ -176,15 +168,11 @@
 
 ---
 
-!slide_classes photo-content-slide
-
 ### Visita cooperativa de vivienda.
 
 ![FACTTIC](/img/photos/10.jpg#photo)
 
 ---
-
-!slide_classes photo-content-slide
 
 ### Salón principal: Donde se llevaron a cabo las conversaciones más importantes.
 
@@ -192,23 +180,17 @@
 
 ---
 
-!slide_classes photo-content-slide
-
 ### Delegación Argentina!
 
 ![FACTTIC](/img/photos/13.jpg#photo)
 
 ---
 
-!slide_classes photo-content-slide
-
 ### Vandana Shiva, Filósofa y escritoa india.
 
 ![FACTTIC](/img/photos/14.jpg#photo)
 
 ---
-
-!slide_classes photo-content-slide
 
 ### Cena del Último Día: Un lugar de encuentro más para seguir haciendo conexiones.
 
@@ -217,23 +199,17 @@
 
 ---
 
-!slide_classes photo-content-slide
-
 ### Día libre: Fuimos a dar una vuelta con la delegación argentina.
 
 ![FACTTIC](/img/photos/18.jpg#photo)
 
 ---
 
-!slide_classes photo-content-slide
-
 ### Día libre: Fuimos a dar una vuelta con la delegación argentina.
 
 ![FACTTIC](/img/photos/20.jpg#photo)
 
 ---
-
-!slide_classes photo-content-slide
 
 ### Día libre: Visitamos un mercado local no turístico para aprender más sobre su cultura.
 
