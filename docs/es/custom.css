@@ -1,25 +1,17 @@
 h1, h2, h3 {
-    margin-bottom: 35px;
+    margin-bottom: 60px;
     text-align: center;
     color: #435198;
-    font-size: 2rem;
-}
-
-.header, .footer {
-    font-size: 0.8rem;
 }
 
 img[src*="logo-kigali"] {
-    width: 400px;
+    width: 500px;
 }
 
 img[src*="logo-fiqus"] {
     width: 200px;
 }
 
-img[src*="organigrama-ACI"] {
-    width: 800px;
-}
 
 img[src*="logo-facttic"] {
     width: 200px;
@@ -27,7 +19,7 @@ img[src*="logo-facttic"] {
 }
 
 img[src*="photo"] {
-    width: 800px;
+    width: 950px;
 }
 
 div.slide-0 {
@@ -37,15 +29,14 @@ div.slide-0 {
 div.slide-0 h1, div.slide-0 h2, div.slide-0 h3{
     text-align: center;
     margin-bottom: 0px;
-    font-size: 1.5rem;
 }
 
 div.content p, div.content li {
-    font-size: 34px;
+    font-size: 45px;
 }
 
 div.content li {
-    margin-bottom: 20px;
+    margin-bottom: 65px;
 }
 
 div.content a {
@@ -76,12 +67,12 @@ div.last-slide img {
 
 div.photo-title-slide h1 {
     text-align: center;
-    font-size: 80px;
-    margin-top: 26%;
+    font-size: 120px;
+    margin-top: 20%;
 }
 
 div.photo-content-slide h3 {
-    font-size: 15px;
-    margin-bottom: -28px;
+    font-size: 20px;
+    margin-bottom: -40px;
 }
 

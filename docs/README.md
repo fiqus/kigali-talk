@@ -1,4 +1,6 @@
 
+(setq markdown-css-paths '("/custom.css"))
+
 ![Kigali](/img/kigali.jpeg#logo-kigali)
 
 ## Global Conference ‘Cooperatives for development’ 
