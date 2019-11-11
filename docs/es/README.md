@@ -225,3 +225,13 @@
 
   - Podemos continuar **creando** nuestros **propios espacios aprendiendo** de este tipo de experiencias: Lo que queremos replicar y lo que no queremos replicar.
 
+---
+
+# Gracias!
+
+![FACTTIC](/img/logo_facttic.png#logo-facttic)  ![Fiqus](/img/logo_fiqus.png#logo-fiqus)
+
+
+### nicolasdimarco@fiqus.coop
+
+

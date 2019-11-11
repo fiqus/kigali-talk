@@ -165,7 +165,7 @@
 
 ---
 
-# Questions? Thank you!
+# Thank you!
 
 ![FACTTIC](/img/logo_facttic.png#logo-facttic)  ![Fiqus](/img/logo_fiqus.png#logo-fiqus)
 
