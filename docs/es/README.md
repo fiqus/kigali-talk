@@ -1,17 +1,9 @@
-!header FACTTIC en Kigali 2019
-!footer Hecho con Prexent
-
-!slide_classes slide-0
-
-!custom_css /css/custom.css
 
 ![Kigali](/img/kigali.jpeg#logo-kigali)
 
 ## Conferencia global ‘Cooperativas para el desarrollo’ 
 
 ---
-
-!slide_classes photo-title-slide
 
 # Acerca de la ACI
 
@@ -24,10 +16,6 @@
   - Organización descentralizada, gobernada democráticamente por sus miembros.
 
   - Fue fundada en Londres, en 1895 durante el primer Congreso Cooperativo del mundo, al que asistieron delegados de Argentina.
-
----
-
-# Contexto: Acerca de la ACI 
 
   - Una de las únicas organizaciones internacionales que logró sobrevivir a ambas guerras mundiales.
 
@@ -82,15 +70,11 @@
 
 ---
 
-# Un poco de contexto: Fiqus 
+# Un poco de contexto: FACTTIC 
 
-  - **Desde hace casi un año**, venimos trabajando en una **estrategia** que consiste en **trabajar "CON" cooperativas**.
+  - **Desde hace casi un año**, varias cooperativas venimos trabajando en una **estrategia** que consiste en **trabajar "CON" cooperativas**, construyendo relaciones basadas en la confianza para colaborar en proyectos tecnológicos. 
 
-!comment Construyendo relaciones basadas en la confianza para colaborar en proyectos tecnológicos. 
-
-  - Después empezamos a pensar en complementarla con **trabajar "PARA"** empresas de la economía social.
-
-  - Nos eligieron: Venimos trabajando activamente en FACTTIC desde su fundación hace **7 años**.
+  - Poco tiempo después empezamos a pensar en complementarla con otra estrategia más orientada a **trabajar "PARA"** empresas de la economía social.
 
 ---
 
@@ -101,10 +85,6 @@
   - **Trabajar "PARA" cooperativas**: El sector cooperativo global maneja su negocio usando tecnología, esta **tecnología** debería ser **producida por cooperativas**.
 
   - Conocer gente de otras cooperativas que no podríamos conocer en persona si no fuera durante el evento.
-
----
-
-# Qué fuimos a buscar?
 
   - **"Hacer correr la voz"**: Comunicar el mensaje de que **trabajamos en colaboración** para lograr nuestros objetivos.
 
@@ -122,10 +102,6 @@
 
   - Más de **15 personas de 10 cooperativas diferentes** también contribuyeron **trabajo** para producir: folletos, tarjetas de visita y la **[Landing Page del FIT](https://facttic.org.ar/fit/en)**.
 
----
-
-# Cómo colaboramos para participar?
-
   - Establecimos una **estrategia de comunicación articulada** entre las cooperativas, FACTTIC y la persona a cargo de la comunicación en la ACI **para replicar los mensajes** informando sobre el evento.
 
   - Creamos un **[Canal de Difusión](https://t.me/joinchat/AAAAAE7bzC4NStkvudhhZg)** donde **comunicamos todos los días** las charlas a las que asistimos y los contactos generados.
@@ -140,13 +116,9 @@
 
   - **Sorpresa** al saber de un sector cooperativo dedicado a la **producción de tecnología**.
 
-  - **Interés** en nuestra experiencia de intercooperación.
+  - **Interés** en nuestra **experiencia de intercooperación**.
 
----
-
-# Qué encontramos allá?
-
- - **Interés** en la **red de cooperativas de tecnología**: Escala.
+  - **Interés** en la **red de cooperativas de tecnología**: Escala.
 
   - **La necesidad de mostrar** más de nuestro trabajo diario: Hoy en día no existe un **actor** que **represente a nuestro sector** a un **nivel internacional**, así que nadie había oído hablar de nosotros.
 
@@ -162,17 +134,11 @@
 
   - **Mucho entusiasmo** cuando vimos **la voluntad y sorpresa** de **otras cooperativas** para aprender sobre el sector de las cooperativas IT.
 
----
-
-# Qué resultados obtuvimos?
-
   - Más **conocimiento**: Trajimos **información** sobre otros procesos **cooperativos** interesantes en otras partes del mundo.
 
   - Muchos **contactos**: Aprovechamos la participación para **hablar con la gente, conocernos** y discutir la posibilidad de **trabajar juntos**.
 
 ---
-
-!slide_classes photo-title-slide
 
 # Algunas fotos!
 
